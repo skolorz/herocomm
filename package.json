@@ -1,0 +1,23 @@
+{
+  "name": "herocomm",
+  "version": "0.0.1",
+  "description": "Carsharing communication",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT",
+  "author": "Szymon"
+}
